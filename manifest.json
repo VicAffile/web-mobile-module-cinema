@@ -1,0 +1,12 @@
+{
+  "name": "Cinéphile",
+  "short_name": "CP",
+  "description": "Créer pour le module de Web Mobile. Le but est d'exploiter une api de film.",
+  "dir": "ltr",
+  "lang": "fr",
+  "background_color": "back",
+  "theme_color": "black",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

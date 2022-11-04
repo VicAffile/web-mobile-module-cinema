@@ -77,3 +77,13 @@ article p {
   margin: 0;
   text-align: justify;
 }
+
+@media all and (max-width: 768px) {
+  input,
+  input[type="submit"] {
+    border-radius: 20px;
+  }
+  ul {
+    padding: 5px 0;
+  }
+}
